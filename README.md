@@ -49,4 +49,3 @@ Top 5 most important features identified:
 - Comprehensive EDA with correlation analysis
 - UMAP visualization for data structure
 
-## Project Structure
